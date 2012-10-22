@@ -3,7 +3,7 @@ A CRUD for contacts building an Agenda for Android
 forked from caiquerodrigues/unb-agenda3
 
 Developed by:
-	- Guilherme Fay Vergara
+	- Guilherme Vergara
 	- Marcos Ronaldo
 	- Gustavo Correia
 	- Bryan Fernandes 
