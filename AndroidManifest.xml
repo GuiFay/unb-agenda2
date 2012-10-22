@@ -36,8 +36,18 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="br.unb.agenda3.activities.AgendaActivity" />
         </activity>
-        <activity android:name="ContactListActivity"></activity>
-        <activity android:name="ShowContactActivity"></activity>
+        <activity android:name="ContactListActivity" >
+        </activity>
+        <activity android:name="ShowContactActivity" >
+        </activity>
+        <activity
+            android:name=".ContactAddActivity"
+            android:label="@string/title_activity_contact_add" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.unb.agenda3.activities.MainActivity" />
+        </activity>
     </application>
 
-</manifest>
+</manifest> 
+            

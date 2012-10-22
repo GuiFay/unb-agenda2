@@ -6,8 +6,14 @@
     <string name="title_activity_main">Agenda3</string>
     <string name="title_activity_agenda">AgendaActivity</string>
     <string name="title_activity_contato">ContatoActivity</string>
+    <string name="btn_add_contacts">Add Contacts</string>
     <string name="btn_list_contacts">List Contacts</string>
+    <string name="textview_name">Name:</string>
+    <string name="textview_email">Email:</string>
+    <string name="textview_telephone">Telephone:</string>
+    <string name="textview_address">Address:</string>
     <string name="txt_contact_name">Contact Name</string>
     <string name="txt_contact_telephone">Contact Telefone</string>
+    <string name="title_activity_contact_add">ContactAddActivity</string>
 
 </resources>
